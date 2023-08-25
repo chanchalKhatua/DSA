@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?page=2&status[]=solved&sortBy=latest
+//https://practice.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1?page=2&status[]=solved&sortBy=latest
 
 class Solution
 {
