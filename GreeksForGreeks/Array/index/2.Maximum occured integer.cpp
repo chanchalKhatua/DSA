@@ -1,5 +1,5 @@
 
-https://practice.geeksforgeeks.org/batch/cip-1/track/P100-Arrays/problem/maximum-occured-integer4602
+//https://practice.geeksforgeeks.org/batch/cip-1/track/P100-Arrays/problem/maximum-occured-integer4602
 //This Solution can be solved using Hashmap or map techniue with O(N*M) time complexity but we can solve it using array 
 //index techniqe in O(n+Max)
 class Solution{
