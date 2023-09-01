@@ -1,7 +1,10 @@
 //https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
 //{ Driver Code Starts
 //Initial template for C++
-// In this type of buy and sell stock problem, we buy and sell stock multiple times with maximum profit
+// In this type of buy and sell stock problem, we buy and sell
+//stock multiple times with maximum profit
+//return only buy and sell days
+
 #include <bits/stdc++.h>
 using namespace std;
 
