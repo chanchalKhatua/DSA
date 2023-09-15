@@ -1,5 +1,7 @@
 //https://practice.geeksforgeeks.org/batch/cip-1/track/P100-Searching/problem/left-index-1587115620
 // Function to find element in sorted array
+//Given a sorted array of positive integers (elements may be repeated) and a number x.
+//The task is to find the leftmost index of x in the given array.
 
 int leftIndex(int N, int arr[], int X){
     
