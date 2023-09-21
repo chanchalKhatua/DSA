@@ -1,6 +1,7 @@
 //https://practice.geeksforgeeks.org/batch/cip-1/track/P100-Arrays/problem/kadanes-algorithm-1587115620
 //Maximum subarray sum or kadene algorithm
-// Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.
+// Given an array Arr[] of N integers. Find the contiguous sub-array
+//(containing at least one number) which has the maximum sum and return its sum.
 
 
 // Example 1:
