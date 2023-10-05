@@ -1,4 +1,8 @@
 //https://www.codingninjas.com/studio/problems/binary-array-sorting_985289?leftPanelTab=0
+//same aproblem 
+//Segregate negative and positive elements.
+// Segregate even and odd elements.
+// Sort a binary array.
 vector<int> sortBinaryArray(vector<int> arr, int n)  {
  	// Write your code here
 	 int i=0;
