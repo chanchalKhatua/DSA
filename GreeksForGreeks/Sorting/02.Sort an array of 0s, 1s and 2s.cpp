@@ -13,6 +13,11 @@
 // 0s 1s and 2s are segregated 
 // into ascending order.
 ///https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/0
+
+//same Problem
+//Sort an array of 0s, 1s, 2s.
+// Three-way partitioning when multiple occurrences of a pivot may exist.
+// Partitioning around a range.
 #include<bits/stdc++.h>
 using namespace std;
 
