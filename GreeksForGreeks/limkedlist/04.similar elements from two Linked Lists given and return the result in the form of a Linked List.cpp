@@ -1,3 +1,11 @@
+//What algorithm will you implement to find similar elements from two Linked Lists given and return the result 
+// in the form of a Linked List? Assume there are no duplicates.
+// Create an empty hash table and set the result list to NULL. While traversing List1, insert the element 
+// in the hash table for each element visited in List1. While traversing List2, look for 
+// the entries in the hash table for each 
+// element visited in List2. If the element is already existing, 
+// add it to the result list. If the element isn't present, it is to be ignored.
+
 Node* getIntersection(Node* head1, Node* head2)
 {
        unordered_map < int > m;
