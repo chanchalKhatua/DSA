@@ -2,6 +2,13 @@
 //https://practice.geeksforgeeks.org/batch/cip-1/track/P100-Arrays/problem/maximum-occured-integer4602
 //This Solution can be solved using Hashmap or map techniue with O(N*M) time complexity but we can solve it using array 
 //index techniqe in O(n+Max)
+// For example consider the following ranges.
+// L[] = {2, 1, 3}, R[] = {5, 3, 9)
+// Ranges represented by above arrays are.
+// [2, 5] = {2, 3, 4, 5}
+// [1, 3] = {1, 2, 3}
+// [3, 9] = {3, 4, 5, 6, 7, 8, 9}
+// The maximum occurred integer in these ranges is 3.
 class Solution{
     public:
     // L and R are input array
