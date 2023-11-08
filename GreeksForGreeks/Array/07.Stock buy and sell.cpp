@@ -4,9 +4,32 @@
 // In this type of buy and sell stock problem, we buy and sell
 //stock multiple times with maximum profit
 //return only buy and sell days
+// Input:
+// N = 7
+// A[] = {100,180,260,310,40,535,695}
+// Output:
+// 1
+// Explanation:
+// One possible solution is (0 3) (4 6)
+// We can buy stock on day 0,
+// and sell it on 3rd day, which will 
+// give us maximum profit. Now, we buy 
+// stock on day 4 and sell it on day 6.
+// Example 2:
 
-#include <bits/stdc++.h>
-using namespace std;
+// Input:
+// N = 5
+// A[] = {4,2,2,2,4}
+// Output:
+// 1
+// Explanation:
+// There are multiple possible solutions.
+// one of them is (3 4)
+// We can buy stock on day 3,
+// and sell it on 4th day, which will 
+// give us maximum profit.
+// #include <bits/stdc++.h>
+// using namespace std;
 
 
 // } Driver Code Ends
